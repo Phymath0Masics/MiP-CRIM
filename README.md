@@ -16,15 +16,19 @@ Benchmarking two solvers on the Sherrington-Kirkpatrick (SK) Ising model:
 ## Files
 
 - `benchmark_SK.py` : benchmark runner and summary table output
+- `demo_run.ipynb` : interactive Jupyter notebook demonstrating MiP-CRIP on SK, Complete Graph ($K_n$), G-set, and NPP models
+- `quick_run.py` : straightforward quick run example for MiP-CRIP
 - `iamp_sk_solver.py` : IAMP implementation
 - `mip_crip.py` : MiP-CRIP implementation
 - `environment.yml` : Conda environment
+- `G10_graph.txt` : 800 nodes, 94.01\% sparse random graph with $\pm 1$ edge-weights from G-set dataset (https://web.stanford.edu/~yyye/yyye/Gset/)
 
 ## Quick Start
 
 ```bash
 conda env create -f environment.yml
-conda activate iamp-vs-mip-crip
+conda activate mip-crip
+python quick_run.py
 python benchmark_SK.py
 ```
 
