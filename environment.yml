@@ -1,7 +1,15 @@
-name: iamp-vs-mip-crip
+name: mip-crip
 channels:
   - conda-forge
 dependencies:
   - python=3.11
   - numpy
   - scipy
+  - pandas
+  - matplotlib
+  - jupyter
+  - notebook
+  - networkx
+  - pip
+  - pip:
+    - ipykernel
