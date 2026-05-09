@@ -1,4 +1,12 @@
-# IAMP vs MiP-CRIP (SK Benchmark)
+# Local-Minima-Preserving Polynomial Relaxation of Ising Problems
+
+> **Accepted at the International Conference on Machine Learning (ICML) 2026**
+> 
+> **Authors:** Debraj Banerjee, Santanu Mahapatra, Kunal N. Chaudhury
+
+Official code repository for the paper "Local-Minima-Preserving Polynomial Relaxation of Ising Problems" introducing MiP-CRIP.
+
+## Overview
 
 Benchmarking two solvers on the Sherrington-Kirkpatrick (SK) Ising model:
 
@@ -35,6 +43,18 @@ The benchmark uses both type of SK models:
 
 - **Gaussian Orthogonal Ensemble (GOE)** [[1]](#references): $J \in \mathbb{R}^{n\times n}$ where $J_{ij} = J_{ji} \sim \mathcal{N}[0, 1/n]$ for $i\neq j$ and $J_{ii} \sim \mathcal{N}[0, 2/n]$.
 - **Standard**: $J_{ij} \sim \mathcal{N}[0, 1]$ with $J_{ij} = J_{ji}$ and zero diagonal.
+
+## Citation
+
+If you find this code useful in your research, please consider citing our paper:
+```bibtex
+@inproceedings{banerjee2026local,
+  title={Local-Minima-Preserving Polynomial Relaxation of Ising Problems},
+  author={Banerjee, Debraj and Mahapatra, Santanu and Chaudhury, Kunal N.},
+  booktitle={International Conference on Machine Learning (ICML)},
+  year={2026}
+}
+```
 
 ## References
 
