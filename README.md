@@ -11,6 +11,7 @@ Official code repository for the paper "Local-Minima-Preserving Polynomial Relax
 
 ## Files
 
+- `Local_Minima_Preserving_Polynomial_Relaxation_of_Ising_Problems.pdf` : arXiv version of the Paper
 - `benchmark_SK.py` : benchmark runner and summary table output
 - `demo_run.ipynb` : interactive Jupyter notebook demonstrating MiP-CRIP on SK, Complete Graph ($K_n$), G-set, and NPP models
 - `quick_run.py` : straightforward quick run example for MiP-CRIP
