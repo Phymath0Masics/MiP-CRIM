@@ -1,4 +1,4 @@
-name: mip-crip
+name: mip-crim
 channels:
   - conda-forge
 dependencies:
