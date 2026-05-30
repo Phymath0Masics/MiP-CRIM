@@ -61,4 +61,4 @@ If you find this code useful in your research, please consider citing our paper:
 
 ## References
 
-[1] "Optimization of the Sherrington-Kirkpatrick Hamiltonian." *arXiv:1812.10897v2*.
+[1] Montanari, Andrea. "Optimization of the Sherrington–Kirkpatrick hamiltonian." SIAM Journal on Computing 54.4 (2025): FOCS19-1.
