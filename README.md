@@ -1,5 +1,10 @@
 # Local-Minima-Preserving Polynomial Relaxation of Ising Problems
 
+<p align="center">
+  <img src="MiP-CRIM_thumbnail.png" alt="MiP-CRIM overview" width="1000">
+</p>
+
+
 > **Accepted at the International Conference on Machine Learning (ICML) 2026**
 > 
 > **Authors:** Debraj Banerjee, Santanu Mahapatra, Kunal N. Chaudhury
