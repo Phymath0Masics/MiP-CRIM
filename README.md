@@ -12,7 +12,7 @@
 Official code repository for the paper "Local-Minima-Preserving Polynomial Relaxation of Ising Problems" introducing MiP-CRIM.
 
 ## Overview
-`MiP-CRIM` (Minima Preserving Continuous Relaxation of Ising Model) : Solver for Ising model optimization problems, including MAX-CUT, Number Partitioning Problem (NPP), Sherrington-Kirkpatrick (SK) models, and complete graphs.
+`MiP-CRIM` (Minima Preserving Continuous Relaxation of Ising Model): Solver for Ising model optimization problems, including MAX-CUT, Number Partitioning Problem (NPP), Sherrington-Kirkpatrick (SK) models, and complete graphs.
 
 ## Files
 
