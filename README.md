@@ -1,7 +1,7 @@
 # Local-Minima-Preserving Polynomial Relaxation of Ising Problems
 
 <p align="center">
-  <img src="MiP-CRIM_thumbnail.png" alt="MiP-CRIM overview" width="1000">
+  <img src="MiP-CRIM_thumbnail_1.png" alt="MiP-CRIM overview" width="1000">
 </p>
 
 
