@@ -60,8 +60,11 @@ If you find this code useful in your research, please consider citing our paper:
   title={Local-Minima-Preserving Polynomial Relaxation of Ising Problems},
   author={Banerjee, Debraj and Mahapatra, Santanu and Chaudhury, Kunal N.},
   booktitle={International Conference on Machine Learning (ICML)},
-  year={2026}
+  year={2026},
+  url={https://arxiv.org/abs/2606.30333}
 }
+
+
 ```
 
 ## References
